@@ -15,16 +15,18 @@
 ### STEP 5: Click on 'Start Process' to begin the process.
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
-## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/998a5e1b-4fea-4f03-a323-dd49973513a7)
-![123_2](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b)
-![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
-
 ## Output:
-![6](https://github.com/Mathiofficial/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118787327/0ee07875-81b6-4bc4-bd95-b4f2fa5571d0)
+```
+ Name: Mathiyazhagan.A
+ Register Number: 212222240063
+```
+![image](https://github.com/Gchethankumar/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118348224/96e15a69-a50c-4e27-ac4c-5466d56a8e19)
 
-### Name:Mathiyazhagan.A
-### Register Number:212222240063
+![image](https://github.com/Gchethankumar/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118348224/fd45a509-d407-412d-9935-8ef3bd0757b2)
+
+![image](https://github.com/Gchethankumar/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118348224/e8a573ef-0666-4fdd-98ae-6d54aa99200b)
+
+![image](https://github.com/Gchethankumar/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118348224/20157fa2-fbcb-4d64-a2f0-7daaf9f39042)
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
